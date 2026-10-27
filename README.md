@@ -4,13 +4,13 @@
 - MediaPipe ("mediapipe")
 - NumPy ("numpy")
 
-Cài đặt thư viện bằng lệnh: pip install opencv-python mediapipe numpy
+  Cài đặt thư viện bằng lệnh: pip install opencv-python mediapipe numpy
 
 2. Hướng dẫn chạy chương trình:
 
-Chạy file Python chính bằng lệnh: python main.py
+   Chạy file Python chính bằng lệnh: python main.py
 
-Lưu ý: Thay "main.py" bằng tên file thực tế của chương trình nếu khác.
+   Lưu ý: Thay "main.py" bằng tên file thực tế của chương trình nếu khác.
 
 3. Hướng dẫn sử dụng:
 - Nhấn "S" để bắt đầu trò chơi.
