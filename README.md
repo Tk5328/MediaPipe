@@ -5,9 +5,9 @@
 - NumPy ("numpy")
 
 2. Hướng dẫn chạy chương trình:
--Tải source code về máy.
--Install các thư viện cần thiết.
--Chạy file python lưu source code.
+- Tải source code về máy.
+- Install các thư viện cần thiết.
+- Chạy file python lưu source code.
 
 4. Hướng dẫn sử dụng:
 - Nhấn "S" để bắt đầu trò chơi.
