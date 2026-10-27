@@ -4,7 +4,7 @@
 - MediaPipe ("mediapipe")
 - NumPy ("numpy")
 
-  Cài đặt thư viện bằng lệnh: pip install opencv-python mediapipe numpy
+  Cài đặt thư viện bằng lệnh: py -m pip install opencv-python mediapipe numpy
 
 2. Hướng dẫn chạy chương trình:
 
