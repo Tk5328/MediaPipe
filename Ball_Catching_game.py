@@ -26,7 +26,7 @@ max_misses = 3
 started = False
 game_over = False
 
-hands = mediapipe.solutions.hands.Hands(static_image_mode=False, max_num_hands=1, min_detection_confidence=0.7, min_tracking_confidence=0.7)
+hands = mediapipe.solutions.hands.Hands(static_image_mode = False, max_num_hands = 1, min_detection_confidence = 0.7, min_tracking_confidence = 0.7)
 
 def create_ball():
     global ball_x, ball_y
