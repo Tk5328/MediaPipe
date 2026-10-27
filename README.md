@@ -4,15 +4,12 @@
 - MediaPipe ("mediapipe")
 - NumPy ("numpy")
 
-  Cài đặt thư viện bằng lệnh: py -m pip install opencv-python mediapipe numpy
-
 2. Hướng dẫn chạy chương trình:
+-Tải source code về máy.
+-Install các thư viện cần thiết.
+-Chạy file python lưu source code.
 
-   Chạy file Python chính bằng lệnh: python main.py
-
-   Lưu ý: Thay "main.py" bằng tên file thực tế của chương trình nếu khác.
-
-3. Hướng dẫn sử dụng:
+4. Hướng dẫn sử dụng:
 - Nhấn "S" để bắt đầu trò chơi.
 - Di chuyển ngón trỏ trước webcam để điều khiển giỏ hứng.
 - Bắt bóng để ghi điểm. Mỗi lần bắt thành công, tốc độ bóng tăng lên.
